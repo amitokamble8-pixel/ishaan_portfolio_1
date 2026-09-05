@@ -22,14 +22,13 @@ const SITE = "Ishaan Mittal";
 const Hero = () => (
   <section className="hero">
     <div className="hero-inner">
-      <p className="hero-eyebrow">{PROFILE.location}</p>
+     
 
       <h1 className="hero-name">
         <span className="ln-1">{PROFILE.first}</span>
         <span className="ln-2">{PROFILE.last}</span>
       </h1>
 
-      <p className="hero-tag">{PROFILE.tagline}</p>
       <p className="hero-bio">{PROFILE.bio[0]}</p>
 
       <div className="cta-row">
