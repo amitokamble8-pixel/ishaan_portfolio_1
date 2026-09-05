@@ -602,9 +602,6 @@ a.award-row:hover{background:var(--surface);border-color:var(--ink);transform:tr
   transition:border-color .2s, transform .2s;
 }
 .sport-card:hover{border-color:var(--ink);transform:translateY(-3px)}
-.sport-ico{
-  display:grid;place-items:center;width:48px;height:48px;border-radius:0;
-  background:var(--blue);font-size:22px;line-height:1;margin-bottom:22px;
 }
 .sport-card h4{
   font-family:var(--font-display);font-weight:800;font-size:18px;
