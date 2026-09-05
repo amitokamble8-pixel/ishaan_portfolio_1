@@ -314,7 +314,6 @@ export function Sports() {
               </a>
             ) : (
               <article className="sport-card">
-                <span className="sport-ico">{s.icon}</span>
                 <h4>{s.name}</h4>
                 <p>{s.desc}</p>
               </article>
