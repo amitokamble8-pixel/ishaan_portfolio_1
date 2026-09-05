@@ -46,7 +46,6 @@ export const NAV = [
     children: [
       { label: "Work Experience", to: "/work" },
       { label: "Featured Projects", to: "/projects" },
-      { label: "Academic Interests", to: "/publications" },
     ],
   },
 
@@ -252,7 +251,6 @@ export const VOLUNTEER = {
      events and language levels — verify or replace. */
   stats: [
     { value: "3", label: "Interschool Tech Events" },
-    { value: "2", label: "Engineering Programmes" },
     { value: "A2", label: "German Level Reached" },
   ],
   orgs: [
@@ -273,22 +271,22 @@ export const VOLUNTEER = {
 
 export const SPORTS = [
   {
-    icon: "🤖",
+    icon: "",
     name: "Engineering & Technology Competitions",
     desc: "Participated in multiple interschool technology and engineering events, including AMITY ROBOTRONICS, SUNCITY TECHTONIK and DPS SYNTAX. These gave me opportunities to work in competitive technical environments, apply problem-solving skills and engage with technology beyond the school curriculum.",
   },
   {
-    icon: "💻",
+    icon: "",
     name: "Coding",
     desc: "Pursued Python programming outside school, developing my computational foundation alongside my interest in engineering. Learning to code has helped me approach problems more systematically and understand the role computation can play in modern engineering.",
   },
   {
-    icon: "📷",
+    icon: "",
     name: "Photography",
     desc: "A creative counterpoint to my technical interests. Photography has encouraged me to observe details, think about perspective and develop an appreciation for visual composition.",
   },
   {
-    icon: "🗣️",
+    icon: "",
     name: "Languages",
     desc: "Alongside English and Hindi, I have studied German at A1 and A2 levels. Learning German has complemented my interest in German engineering and gave me an additional way to engage with the culture and context surrounding the engineering institutions and automotive companies I encountered in Germany.",
   },
