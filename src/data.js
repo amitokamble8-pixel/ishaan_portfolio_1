@@ -361,7 +361,6 @@ export const FOOTER_NAV = [
   { label: "About", to: "/about" },
   { label: "Work Experience", to: "/work" },
   { label: "Featured Projects", to: "/projects" },
-  { label: "Academic Interests", to: "/publications" },
   { label: "Achievements", to: "/awards" },
   { label: "Leadership & Collaboration", to: "/volunteering" },
   { label: "Activities", to: "/sports" },
